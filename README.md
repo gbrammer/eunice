@@ -1,0 +1,2 @@
+# eunice
+Euclid processing experiments
